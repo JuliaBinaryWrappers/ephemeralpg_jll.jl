@@ -1,0 +1,10 @@
+name = "ephemeralpg_jll"
+uuid = "1b42a6b1-a0b2-50eb-a0be-acc79e4b08a0"
+version = "3.0.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

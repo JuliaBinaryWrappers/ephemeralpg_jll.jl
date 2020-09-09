@@ -1,0 +1,97 @@
+[[ephemeralpg]]
+arch = "aarch64"
+git-tree-sha1 = "31e42a8015ab6ded6bb9c00887e12970b6dff06e"
+libc = "glibc"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "efdd05003fb017b2ce695b3a8ae9953f27fbd9b68aa58681a79a8d60283445bd"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.aarch64-linux-gnu.tar.gz"
+[[ephemeralpg]]
+arch = "aarch64"
+git-tree-sha1 = "c5557714955f5f43ed37d695673e5dbff841f4be"
+libc = "musl"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "698505e8707d2658194de239167a0f677d47c0f15181e0da356e63b6d402c822"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.aarch64-linux-musl.tar.gz"
+[[ephemeralpg]]
+arch = "armv7l"
+git-tree-sha1 = "70785fdf3bdc4df452650ae4b2976e6f1bd3fb50"
+libc = "glibc"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "8eeb9cfe917c0ca3ac6c4573a1b10c6f5da01e9eea93be486940847aa17b12d8"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[ephemeralpg]]
+arch = "armv7l"
+git-tree-sha1 = "c4ff10d6ed2321ba8052abe052495ecda2a5f411"
+libc = "musl"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "4da35c923fc3ea5b67e9074277616ffc2de11f30805fc46448050a0a65fe94d3"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.armv7l-linux-musleabihf.tar.gz"
+[[ephemeralpg]]
+arch = "i686"
+git-tree-sha1 = "049aa99fbc19acc31f528744e17f2c4607cb05f6"
+libc = "glibc"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "cb85926df580a1758bbe0da56c38be1f3736f620732323295863686dbfb1afd0"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.i686-linux-gnu.tar.gz"
+[[ephemeralpg]]
+arch = "i686"
+git-tree-sha1 = "f8c8dcb4857641566606d50c254ddfdaa0669c49"
+libc = "musl"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "f6c15d54673669835b16d67036d22fe3b56a2e2c4a1ba387051e1d4174934867"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.i686-linux-musl.tar.gz"
+[[ephemeralpg]]
+arch = "powerpc64le"
+git-tree-sha1 = "85987c01db5ec735a1fc239f3f83da9cc699ea1c"
+libc = "glibc"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "b0694c94865e3d1452e96c2316646c7e342e398d2d95b07d95c7282df2961862"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.powerpc64le-linux-gnu.tar.gz"
+[[ephemeralpg]]
+arch = "x86_64"
+git-tree-sha1 = "d4c97ffda4b86adde5862551c67d5b745d290f58"
+os = "macos"
+
+    [[ephemeralpg.download]]
+    sha256 = "6c33213e68044fa68965ce4281acbdf1628b87fdb6128cd8b55dae4e341e2998"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.x86_64-apple-darwin14.tar.gz"
+[[ephemeralpg]]
+arch = "x86_64"
+git-tree-sha1 = "5cc75a69bb7d94fea2a7f18e91b3d0ade9c76429"
+libc = "glibc"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "cad71546bf21da965b3bbda22c034a5d42bc6fb9002f6124814ac542e7aab420"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.x86_64-linux-gnu.tar.gz"
+[[ephemeralpg]]
+arch = "x86_64"
+git-tree-sha1 = "998e0cbdd6efacf815414e87525edb193ea904d0"
+libc = "musl"
+os = "linux"
+
+    [[ephemeralpg.download]]
+    sha256 = "bcd1ab12dec9dd9ebd47011a378023a0da53f6977d65356226e536dab510994b"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.x86_64-linux-musl.tar.gz"
+[[ephemeralpg]]
+arch = "x86_64"
+git-tree-sha1 = "2202aced9f3ced71a88d0f663b7ac8b525008042"
+os = "freebsd"
+
+    [[ephemeralpg.download]]
+    sha256 = "9f556b9ad7195fec471f37f37b15724ad04082b4953574cd4501adba9896a1fc"
+    url = "https://github.com/JuliaBinaryWrappers/ephemeralpg_jll.jl/releases/download/ephemeralpg-v3.0.0+0/ephemeralpg.v3.0.0.x86_64-unknown-freebsd11.1.tar.gz"
